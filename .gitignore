@@ -1,0 +1,42 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# AI asistan (kisisel)
+.claude/
+.agents/
+.codex/
+
+# Graphify
+graphify-out/cache/
+graphify-out/graph.json
+graphify-out/graph.html
+
+# Log dosyalari
+crash.log
+err.txt
+phase9_stderr.txt
+phase9_stdout.txt
+
+# Derleme artefaktlari
+atlas_map.json
+textures/atlas_map.json
+textures/texture_atlas.png
+test_render.png
+
+# Kisisel kurulum/gelistirme
+create_shortcut.ps1
+"*.zip"
+*.zip
+
+# Kook dizinindeki eski texture klasoru (ourcraft2/ altindakiler dogru olanlar)
+textures/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Plan dosyalari
+*Gelistirme Plani*.md

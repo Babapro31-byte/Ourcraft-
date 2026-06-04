@@ -1,0 +1,5 @@
+pygame-ce>=2.5.0
+PyOpenGL>=3.1.7
+moderngl>=5.10.0
+numpy>=2.0.0
+noise>=1.2.2
