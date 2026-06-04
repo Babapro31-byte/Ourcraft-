@@ -1,2 +1,0 @@
-pygame-ce 2.5.7 (SDL 2.32.10, Python 3.13.12)
-Warning: Audio system initialization failed: Array must be 2-dimensional for stereo mixer
